@@ -7,5 +7,9 @@
     "name": "OKVIZ",
     "url": "https://okviz.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://docs.okviz.com/www/terms/privacy",
+  "documentationUrl": "https://docs.okviz.com/visuals/synoptic-panel/concepts/maps/creating-svg-with-ai",
+  "supportUrl": "https://docs.okviz.com/visuals/issues/support",
+  "termsOfServiceUrl": "https://docs.okviz.com/www/terms/"
 }
