@@ -1,0 +1,11 @@
+{
+  "name": "synoptic-panel-map-maker",
+  "displayName": "Synoptic Panel SVG Map Maker",
+  "version": "1.0.0",
+  "description": "Create, trace, fix, and validate data-bindable SVG maps for OKVIZ Synoptic Panel in Power BI.",
+  "author": {
+    "name": "OKVIZ",
+    "url": "https://okviz.com"
+  },
+  "license": "MIT"
+}
